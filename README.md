@@ -15,4 +15,4 @@ Here's a mockup and design of the project:
 ![Alt text](website.png)
 
 ## Notes and Comments
-My experince using the AI tool was a little easy but I had a struggle in the beginning. I went though my personal website to compeleted my description page, the features implemented in the project, the project degin.
+My experience using the AI tool was fairly easy, although I struggled a bit at first. I used my personal website to complete my description page and outline the features implemented in the project. The project design also benefited from help I received from a classmate and my teacher regarding the tools. I also researched examples of personal websites on Google to gather ideas for my own website.
